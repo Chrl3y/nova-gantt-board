@@ -1,4 +1,4 @@
-# Nova Microfinance — Developer Session Gantt
+# Nova Microfinance — IT Operations Developer Session Gantt
 
 An interactive Gantt chart application for managing developer sessions and project issues during the Nova Microfinance initiative.
 
